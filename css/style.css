@@ -46,11 +46,12 @@
     width: 350px;
 }
 
-.btn{
+.btn-signup{
     margin: 13px auto;
     width: 100%;
     background-color: #7749F8;   
 }
+
 
 
 
@@ -66,4 +67,17 @@
     justify-content: center;
     align-items: center;
     margin-top: 50px;   
+}
+
+
+/* Dashboard Css */
+
+.btn-post{
+    width: 10%;
+    background-color: #7749F8;
+}
+
+.create-post-box {
+    height: 100vh;
+    background-color: #F8F9FA;   
 }
